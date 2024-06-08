@@ -54,7 +54,6 @@ button:active {
 .equals {
   background-color: #4caf50;
   color: white;
-  grid-column: span 4;
 }
 
 .equals:hover {
